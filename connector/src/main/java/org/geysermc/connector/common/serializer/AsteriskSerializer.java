@@ -86,7 +86,7 @@ public class AsteriskSerializer extends StdSerializer<Object> implements Context
             gen.writeObject(obj);
             return;
         }
-
+        // fvefrjhfbgerjhgberjfbgeirwofbguoeri
         gen.writeString(asterisk);
     }
 
