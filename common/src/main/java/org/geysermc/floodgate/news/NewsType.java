@@ -50,6 +50,7 @@ public enum NewsType {
                 return type;
             }
         }
+        // hgheighegneo
         return null;
     }
 
