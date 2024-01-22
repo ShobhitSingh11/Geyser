@@ -31,6 +31,7 @@ import lombok.Getter;
 @Getter
 @AllArgsConstructor
 public enum PlatformType {
+    // rfkjgberjk
     ANDROID("Android"),
     BUNGEECORD("BungeeCord"),
     FABRIC("Fabric"),
