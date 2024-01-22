@@ -48,6 +48,7 @@ public class BootstrapDumpInfo {
         public String version;
         public String main;
         public List<String> authors;
+        // ohheghuebbn
     }
 
     @Getter
