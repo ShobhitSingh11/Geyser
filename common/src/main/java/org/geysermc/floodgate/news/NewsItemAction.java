@@ -30,6 +30,7 @@ public enum NewsItemAction {
     ON_OPERATOR_JOIN,
     BROADCAST_TO_CONSOLE,
     BROADCAST_TO_OPERATORS;
+    // qazwsxedc
 
     private static final NewsItemAction[] VALUES = values();
 
