@@ -26,10 +26,12 @@
 package org.geysermc.floodgate.news;
 
 public enum NewsItemAction {
+    // wdhkjwhd2
     ON_SERVER_STARTED,
     ON_OPERATOR_JOIN,
     BROADCAST_TO_CONSOLE,
     BROADCAST_TO_OPERATORS;
+    // qazwsxedc
 
     private static final NewsItemAction[] VALUES = values();
 

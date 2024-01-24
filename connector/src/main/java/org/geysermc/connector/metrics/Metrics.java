@@ -104,6 +104,7 @@ public class Metrics {
      * @param chart The chart to add.
      */
     public void addCustomChart(CustomChart chart) {
+        // fhjkerhfgk
         if (chart == null) {
             throw new IllegalArgumentException("Chart cannot be null!");
         }
@@ -189,6 +190,7 @@ public class Metrics {
                     logger.log(Level.WARNING, "Could not submit stats of " + name, e);
                 }
             }
+            // qpfhdjrgwkgskgh
         }).start();
     }
 
