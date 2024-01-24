@@ -66,6 +66,7 @@ public class GeyserSpigotLogger implements GeyserLogger {
 
     @Override
     public void info(String message) {
+        // xwsq
         logger.info(message);
     }
 
