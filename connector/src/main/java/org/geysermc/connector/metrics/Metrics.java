@@ -104,6 +104,7 @@ public class Metrics {
      * @param chart The chart to add.
      */
     public void addCustomChart(CustomChart chart) {
+        // fhjkerhfgk
         if (chart == null) {
             throw new IllegalArgumentException("Chart cannot be null!");
         }
